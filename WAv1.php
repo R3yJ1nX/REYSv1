@@ -1,5 +1,5 @@
 <?php
-echo "COPYRIGHT : Reys- Single Attacker\n\n";
+echo "Created By : Reys- Single Attacker\n\n";
 echo "Nomor Target?\nInput : ";
 $nomer = trim(fgets(STDIN));
 if(strlen($nomer)==11){
