@@ -1,3 +1,5 @@
+Recode ya
+☣☣☣☣
 <?php
 echo "Created By : Reys- Single Attacker\n\n";
 echo "Nomor Target?\nInput : ";
