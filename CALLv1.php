@@ -1,3 +1,5 @@
+Recode ya.. 
+☣☣☣☣☣☣
 <?php
 // Limit 3x Telpon Setiap Satu Nomor
 function send($phone){
